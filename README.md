@@ -11,7 +11,7 @@ What I do:
 📌 Analysis, processing and interpretation of data from online activities.
 
 PS<br>
-I ❤️ PHP and Vue.js 😄
+Yes, I am a *hybrid* 😄 and I ❤️ PHP and Vue.js
 <!--
 **davidecesarano/davidecesarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
