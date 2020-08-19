@@ -1,5 +1,17 @@
 ### Hi there 👋
+I am [Davide Cesarano](https://davidecesarano.it), a full stack developer and a digital marketing specialist based in Naples (Italy).
+I work at [@unipegaso](https://www.unipegaso.it), an italian online university, where i develop on a wide variety of projects on a daily basis.
 
+What I do:
+
+📌 Strategic and operational management of digital marketing activities.<br>
+📌 Design and development of university web projects (websites, CMS, blogs, etc.) and customized applications to support digital activities (CRM, landing page, tracking, etc.).<br>
+📌 Support to top management in strategic choices related to the online presence of the brand.<br>
+📌 Management and coordination of relations with external companies and agencies for the evaluation of services offered and commissioned activities.<br>
+📌 Analysis, processing and interpretation of data from online activities.
+
+PS<br>
+I ❤️ PHP and Vue.js 😄
 <!--
 **davidecesarano/davidecesarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
