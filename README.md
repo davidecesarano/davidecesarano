@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am [Davide Cesarano](https://davidecesarano.it), a Full Stack Developer and a Digital Marketing Specialist based in Naples (Italy).
+I am [Davide Cesarano](https://www.davidecesarano.it), a Full Stack Developer and a Digital Marketing Specialist based in Naples (Italy).
 I work at [@unipegaso](https://www.unipegaso.it), an italian online university, where i develop on a wide variety of projects on a daily basis.
 
 ### What I do
