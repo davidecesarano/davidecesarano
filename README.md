@@ -13,7 +13,9 @@ I work at [@unipegaso](https://www.unipegaso.it), an italian online university, 
 ### P.S.
 Yes, I am a *hybrid* 😄 and I ❤️ PHP and Vue.js
 
+## My stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=davidecesarano)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davidecesarano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **davidecesarano/davidecesarano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
